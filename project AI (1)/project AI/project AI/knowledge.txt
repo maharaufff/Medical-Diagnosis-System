@@ -1,0 +1,42 @@
+Allergy has symptoms Sneezing, Itchy Eyes, Runny Nose, Rash.
+Anemia has symptoms Fatigue, Weakness, Pale Skin, Dizziness, Cold Hands.
+Anxiety has symptoms Restlessness, Fast Heartbeat, Sweating, Trouble Sleeping.
+Appendicitis has symptoms Abdominal Pain, Fever, Nausea, Loss of Appetite.
+Arthritis has symptoms Joint Pain, Swelling, Stiffness, Fatigue.
+Asthma has symptoms Cough, Wheezing, Shortness of Breath, Chest Tightness.
+Bronchitis has symptoms Cough, Mucus, Chest Discomfort, Fatigue, Slight Fever.
+COVID-19 has symptoms Fever, Cough, Shortness of Breath, Loss of Taste, Loss of Smell.
+Chickenpox has symptoms Fever, Rash, Itching, Fatigue, Loss of Appetite.
+Cold has symptoms Sneezing, Runny Nose, Cough, Sore Throat.
+Dengue has symptoms Fever, Headache, Muscle Pain, Joint Pain, Skin Rash.
+Depression has symptoms Fatigue, Sadness, Sleep Changes, Appetite Changes, Hopelessness.
+Diabetes has symptoms Fatigue, Frequent Urination, Thirst, Blurred Vision.
+Eczema has symptoms Dry Skin, Itching, Redness, Swelling.
+Epilepsy has symptoms Seizures, Confusion, Staring Spells, Fear.
+Flu has symptoms Fever, Cough, Body Ache, Fatigue.
+Food Poisoning has symptoms Vomiting, Diarrhea, Abdominal Pain, Fever, Nausea.
+Gallstones has symptoms Abdominal Pain, Nausea, Vomiting, Indigestion.
+Gastritis has symptoms Abdominal Pain, Nausea, Bloating, Indigestion.
+Heart Attack has symptoms Chest Pain, Shortness of Breath, Nausea, Dizziness, Sweating.
+Hepatitis A has symptoms Fatigue, Nausea, Abdominal Pain, Yellow Skin, Fever.
+Hepatitis B has symptoms Joint Pain, Fatigue, Yellow Skin, Abdominal Pain, Dark Urine.
+Hypertension has symptoms Headache, Dizziness, Nosebleed, Fatigue, Chest Pain.
+Jaundice has symptoms Yellow Skin, Yellow Eyes, Fatigue, Abdominal Pain.
+Kidney Stones has symptoms Back Pain, Blood in Urine, Painful Urination, Nausea.
+Lupus has symptoms Joint Pain, Fatigue, Fever, Butterfly Rash, Sensitivity to Sun.
+Malaria has symptoms Fever, Chills, Headache, Vomiting, Sweating.
+Measles has symptoms Fever, Cough, Runny Nose, Rash, Sore Throat.
+Meningitis has symptoms Fever, Headache, Stiff Neck, Nausea, Sensitivity to Light.
+Migraine has symptoms Headache, Nausea, Light Sensitivity, Vomiting, Blurred Vision.
+Otitis Media has symptoms Ear Pain, Fever, Irritability, Trouble Hearing.
+PCOS has symptoms Irregular Periods, Acne, Weight Gain, Hair Thinning.
+Pneumonia has symptoms Fever, Cough, Chest Pain, Shortness of Breath, Fatigue.
+Psoriasis has symptoms Red Patches, Itching, Dry Skin, Cracked Skin.
+Rabies has symptoms Fever, Agitation, Confusion, Difficulty Swallowing, Hallucinations.
+Sinusitis has symptoms Facial Pain, Headache, Nasal Congestion, Fever.
+Stroke has symptoms Numbness, Confusion, Trouble Speaking, Dizziness, Loss of Balance.
+Sudan Virus has symptoms sore throat, fever, cough, fatigue, nasal congestion, headache, gastrointestinal issues.
+Thyroid Disorder has symptoms Fatigue, Weight Gain, Cold Sensitivity, Hair Loss.
+Tuberculosis has symptoms Cough, Weight Loss, Fever, Night Sweats.
+Typhoid has symptoms Fever, Weakness, Abdominal Pain, Rash, Diarrhea.
+Urinary Tract Infection has symptoms Burning Urination, Frequent Urination, Cloudy Urine, Pelvic Pain.
